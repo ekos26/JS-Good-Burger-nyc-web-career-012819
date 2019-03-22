@@ -1,11 +1,5 @@
-{"burgers":
-  [
-    {
-      "id": 1,
-      "name": "Good Burger",
-      "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
-    },
+{
+  "burgers": [
     {
       "id": 2,
       "name": "Sal's Burger",
@@ -65,6 +59,54 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "burger",
+      "description": "beef",
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2018/07/best-black-bean-burgers-2.jpg",
+      "id": 12
+    },
+    {
+      "name": "cheeseburger",
+      "description": "cheesy",
+      "image": "https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg",
+      "id": 15
+    },
+    {
+      "name": "pickle burger",
+      "description": "pickles",
+      "image": "https://cdn.vox-cdn.com/thumbor/KzO1oNlk0yaOqS2Pl-DiAsi9-z8=/0x0:580x435/1200x800/filters:focal(0x0:580x435)/cdn.vox-cdn.com/uploads/chorus_image/image/48937475/pickle5.0.0.jpg",
+      "id": 17
+    },
+    {
+      "name": "Sal's Burger",
+      "description": "Burger of Sal's",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg",
+      "id": 18
+    },
+    {
+      "name": "Sal's Burger",
+      "description": "Burger of Sal's",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg",
+      "id": 19
+    },
+    {
+      "name": "Sal'",
+      "description": "Burger o",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg",
+      "id": 20
+    },
+    {
+      "name": "Sal's Burger",
+      "description": "Burger of Sal's",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg",
+      "id": 21
+    },
+    {
+      "name": "Sloppy Bee",
+      "description": "Sloppimus Maximus",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2011/06/Sloppy-Joes-Plus-sandwich.jpg",
+      "id": 22
     }
   ]
 }
